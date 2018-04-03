@@ -30,4 +30,6 @@ Steps To Setting Up Iotfluorometer:
 		 pip install gspread
 		2. Make sure the in your Fluoremeter.cpp you specify the correct paths to your files and the correct Spreadsheet key.
 
+Remember, the libraries folder contains the libraries that should go in the libraries folder of your arduino directory, not your project directory.
+
 And you should be ready to go!
